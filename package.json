@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@wecom/crypto": "1.0.1",
+    "aircode": "0.3.2",
+    "axios": "1.3.4",
+    "openai": "3.2.1",
+    "xml2js": "0.4.23"
+  }
+}

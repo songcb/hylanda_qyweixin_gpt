@@ -1,0 +1,13 @@
+{
+  "name": "hylanda_qyweixin_gpt",
+  "runtime": "node/v16",
+  "retion": "US",
+  "envs": [
+    "EncodingAESKey",
+    "Token",
+    "CorpId",
+    "CorpSecret",
+    "OpenAIKey"
+  ],
+  "typescript": false
+}
